@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <remote  name="github"
+           fetch=".." />
+
+  <project path="wear_AdvancedSettings" name="sssemil/wear_AdvancedSettings" />
+  <project path="wear_GLTron" name="sssemil/wear_GLTron" />
+  <project path="android_packages_apps_IRRemote" name="sssemil/android_packages_apps_IRRemote" />
+</manifest>

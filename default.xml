@@ -12,4 +12,5 @@
   <project path="wear_AdvancedSettings" name="sssemil/wear_AdvancedSettings" />
   <project path="wear_GLTron" name="sssemil/wear_GLTron" />
   <project path="android_packages_apps_IRRemote" name="sssemil/android_packages_apps_IRRemote" />
+  <project path="SimpleExplorer" name="sssemil/SimpleExplorer" />
 </manifest>
